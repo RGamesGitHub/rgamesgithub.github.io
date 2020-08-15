@@ -1,0 +1,26 @@
+body {
+    background-image: url("studs.png");
+  }
+  h1 {
+    color: white;
+    font-family: sans-serif;
+    text-shadow: 2px 2px black;
+  }
+
+  h2 {
+    color: white;
+    font-family: sans-serif;
+    text-shadow: 2px 2px black;
+  }
+
+  h3 {
+    color: white;
+    font-family: sans-serif;
+    text-shadow: 2px 2px black;
+  }
+
+  p {
+    color: white;
+    font-family: monospace;
+    text-shadow: 2px 2px black;
+  }
